@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, we're ForgeLoom 👋
 
-<!--
-**pugazh2509/pugazh2509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Crafting clean, high-converting websites for brands and small businesses.**
 
-Here are some ideas to get you started:
+ForgeLoom builds modern, mobile-friendly websites that look great and help businesses win more customers online.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What we build
+
+- Business websites and landing pages
+- Websites for gyms, restaurants, clinics, salons and other local businesses
+- Redesigns of outdated websites
+- Fast, responsive sites that work on every device
+
+## 🌐 Sample projects
+
+- **IronForge** – gym & fitness website
+- **Velora Kitchen** – restaurant website
+- **SmileCraft** – dental clinic website
+- **Glow Beauty Lounge** – salon & beauty website
+
+## 🤝 Work with us
+
+Need a website for your business? Open to new projects. Get in touch!
