@@ -13,10 +13,10 @@ ForgeLoom builds modern, mobile-friendly websites that look great and help busin
 
 ## 🌐 Sample projects
 
-- **IronForge** – gym & fitness website
-- **Velora Kitchen** – restaurant website
-- **SmileCraft** – dental clinic website
-- **Glow Beauty Lounge** – salon & beauty website
+- **[IronForge](https://iron-forrge-fitness.netlify.app)** – gym & fitness website
+- **[Velora Kitchen](https://velora-kitchen.netlify.app)** – restaurant website
+- **[SmileCraft](https://smilecraft-dentals.netlify.app)** – dental clinic website
+- **[Glow Beauty Lounge](https://glowbeautylounge.netlify.app)** – salon & beauty website
 
 ## 🤝 Work with us
 
